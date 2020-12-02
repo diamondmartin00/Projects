@@ -2,7 +2,13 @@
 Diamond Martin
 Class: CSC 362-001, Programming Assignment 2
 October 1, 2020
-A program that calculates city ratings based on many factors. The information of ethe cities are in a text file that is received and inputed. Once the information is inputed, the city's population density is calculated; then the city's pollution rating, traffic rating, crime per capita, expense per capita are calculated with use of the city's population density that was calculated beofre. Based on the numbers for the city's pollution rating, traffic rating, crime per capita, expense per capita, the city's livability is computed. Then, the number of cities, total livability of all the cities, the city with the best livability, and the city’s name with the best livability are updated as the program goes through the files' rows of city information. Each city's name, population density, and livability are outputed on their own row. Also a summary is outputed of how many cities there are, the average livability of all the cities, city’s name with the best livability, the best livability of the city.     
+A program that calculates city ratings based on many factors. The information of ethe cities are in a text file that is received and inputed. Once the information 
+is inputed, the city's population density is calculated; then the city's pollution rating, traffic rating, crime per capita, expense per capita are calculated 
+with use of the city's population density that was calculated beofre. Based on the numbers for the city's pollution rating, traffic rating, crime per capita, 
+expense per capita, the city's livability is computed. Then, the number of cities, total livability of all the cities, the city with the best livability, 
+and the city’s name with the best livability are updated as the program goes through the files' rows of city information. Each city's name, population density, 
+and livability are outputed on their own row. Also a summary is outputed of how many cities there are, the average livability of all the cities, city’s name with 
+the best livability, the best livability of the city.     
 */
 //file containing the header
 #define _CRT_SECURE_NO_WARNINGS
