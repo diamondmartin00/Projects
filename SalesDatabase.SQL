@@ -1,3 +1,8 @@
+/**
+a database is created and populated with data that is from an excel worksheet.
+The database includes a customer table, supplier table, order table, product table, order line table.
+**/
+
 CREATE TABLE dem_customer (
 customerID INT PRIMARY KEY,
 customerLastName VARCHAR2(25) NOT NULL,
